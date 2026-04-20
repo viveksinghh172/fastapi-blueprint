@@ -8,4 +8,4 @@ def read_root():
 
 @app.get("/greet")
 def greet():
-    return {"Message": "Hello Vivek"}
+    return {"Message": "Hello Vivek!"}
